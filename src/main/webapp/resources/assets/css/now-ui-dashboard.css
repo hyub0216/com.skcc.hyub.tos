@@ -1321,6 +1321,14 @@ fieldset[disabled] .btn-link.active {
   filter: alpha(opacity=100);
 }
 
+.btn-blue:-ms-input-placeholder {
+  color: #888;
+  background-color: #102b4c;
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+
+
 .form-control {
   background-color: transparent;
   border: 1px solid #E3E3E3;
